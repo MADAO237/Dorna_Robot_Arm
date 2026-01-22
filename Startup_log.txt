@@ -1,0 +1,6966 @@
+sh: 0: cannot open /home/dorna/cleaning_fixture/screen_cleaning.sh: No such file
+sh: 0: cannot open /home/dorna/cleaning_fixture/screen_cleaning.sh: No such file
+sh: 0: cannot open /home/dorna/cleaning_fixture/screen_cleaning.sh: No such file
+/bin/bash: /home/dorna/cleaning_fixture/screen_cleaning.sh: No such file or directory
+new lines \/sh: 0: cannot open /home/dorna/cleaning_fixture/screen_cleaning.sh: No such file
+/bin/sh: 1: /home/dorna/cleaning_fixture/screen_cleaning.sh: not found
+Killed: 736
+Started subproc.py
+Killed: 1501
+Started subproc.py
+Killed: 743
+Started subproc.py
+Killed: 1545
+Started subproc.py
+Killed: 2040
+Started subproc.py
+Killed: 2105
+Started subproc.py
+Killed: 2132
+Started subproc.py
+Killed: 2229
+Started subproc.py
+Killed: 2273
+Started subproc.py
+Killed: 2434
+Started subproc.py
+Killed: 2478
+Started subproc.py
+Killed: 2509
+Started subproc.py
+Killed: 735
+Started subproc.py
+Killed: 1436
+Started subproc.py
+Killed: 1459
+Started subproc.py
+Killed: 1526
+Started subproc.py
+Killed: 1549
+Started subproc.py
+Killed: 1664
+Started subproc.py
+Killed: 1707
+Started subproc.py
+Killed: 1733
+Started subproc.py
+Killed: 1751
+Started subproc.py
+Killed: 1769
+Started subproc.py
+Killed: 1796
+Started subproc.py
+I/O Connected
+Run
+Motors On
+Motors Off
+Traceback (most recent call last):
+  File "/home/dorna/cleaning_fixture/front_IO.py", line 118, in <module>
+    lid = last_line[last_line.index('*')+1:last_line.index('^')]
+ValueError: substring not found
+Killed: 736
+Started subproc.py
+Killed: 1137
+Started subproc.py
+Killed: 1155
+Started subproc.py
+Killed: 734
+Started subproc.py
+Killed: 1145
+Started subproc.py
+Killed: 1163
+Started subproc.py
+Killed: 1181
+Started subproc.py
+Killed: 1206
+Started subproc.py
+Killed: 1241
+Started subproc.py
+Killed: 2323
+Started subproc.py
+Killed: 2353
+Started subproc.py
+Killed: 2384
+Started subproc.py
+Killed: 2411
+Started subproc.py
+Killed: 2547
+Started subproc.py
+Killed: 2691
+Started subproc.py
+Version: 3.0.0
+Robot Connected
+1
+Alarms cleared
+Cleaned screen 1 2566 times
+
+Traceback (most recent call last):
+  File "/home/dorna/cleaning_fixture/double_wash.py", line 549, in <module>
+    main()
+  File "/home/dorna/cleaning_fixture/double_wash.py", line 539, in main
+    zgok(char[0], char[1], char[2], char[3])
+  File "/home/dorna/cleaning_fixture/double_wash.py", line 466, in zgok
+    wash_single_screen(zero, counter)
+  File "/home/dorna/cleaning_fixture/double_wash.py", line 170, in wash_single_screen
+    Delta_C = [width[0] / segments[0] * .04179, width[1] / segments[1] * .04179]
+TypeError: unsupported operand type(s) for /: 'float' and 'tuple'
+Killed: 2716
+Started subproc.py
+Version: 3.0.0
+Robot Connected
+1
+Alarms cleared
+Traceback (most recent call last):
+  File "/home/dorna/cleaning_fixture/double_wash.py", line 549, in <module>
+    main()
+  File "/home/dorna/cleaning_fixture/double_wash.py", line 539, in main
+    zgok(char[0], char[1], char[2], char[3])
+  File "/home/dorna/cleaning_fixture/double_wash.py", line 466, in zgok
+    wash_single_screen(zero, counter)
+  File "/home/dorna/cleaning_fixture/double_wash.py", line 170, in wash_single_screen
+    Delta_C = [width[0] / segments[0] * .04179, width[1] / segments[1] * .04179]
+TypeError: unsupported operand type(s) for /: 'float' and 'tuple'
+Killed: 2739
+Started subproc.py
+Version: 3.0.0
+Robot Connected
+1
+Alarms cleared
+Traceback (most recent call last):
+  File "/home/dorna/cleaning_fixture/double_wash.py", line 549, in <module>
+    main()
+  File "/home/dorna/cleaning_fixture/double_wash.py", line 539, in main
+    zgok(char[0], char[1], char[2], char[3])
+  File "/home/dorna/cleaning_fixture/double_wash.py", line 466, in zgok
+    wash_single_screen(zero, counter)
+  File "/home/dorna/cleaning_fixture/double_wash.py", line 170, in wash_single_screen
+    Delta_C = [width[0] / segments[0] * .04179, width[1] / segments[1] * .04179]
+TypeError: unsupported operand type(s) for /: 'float' and 'tuple'
+Killed: 2758
+Started subproc.py
+Version: 3.0.0
+Robot Connected
+1
+Alarms cleared
+Traceback (most recent call last):
+  File "/home/dorna/cleaning_fixture/double_wash.py", line 562, in <module>
+    main()
+  File "/home/dorna/cleaning_fixture/double_wash.py", line 552, in main
+    zgok(char[0], char[1], char[2], char[3])
+  File "/home/dorna/cleaning_fixture/double_wash.py", line 479, in zgok
+    wash_single_screen(zero, counter)
+  File "/home/dorna/cleaning_fixture/double_wash.py", line 170, in wash_single_screen
+    Delta_C = [width[0] / segments[0] * .04179, width[1] / segments[1] * .04179]
+TypeError: unsupported operand type(s) for /: 'float' and 'tuple'
+Started subproc.py
+Version: 3.0.0
+Robot Connected
+1
+Alarms cleared
+Traceback (most recent call last):
+  File "/home/dorna/cleaning_fixture/double_wash.py", line 564, in <module>
+    main()
+  File "/home/dorna/cleaning_fixture/double_wash.py", line 554, in main
+    zgok(char[0], char[1], char[2], char[3])
+  File "/home/dorna/cleaning_fixture/double_wash.py", line 481, in zgok
+    wash_single_screen(zero, counter)
+  File "/home/dorna/cleaning_fixture/double_wash.py", line 170, in wash_single_screen
+    Delta_C = [width[0] / segments[0] * .04179, width[1] / segments[1] * .04179]
+TypeError: unsupported operand type(s) for /: 'float' and 'tuple'
+Killed: 741
+Started subproc.py
+Killed: 1761
+Started subproc.py
+Version: 3.0.0
+Robot Connected
+1
+Alarms cleared
+Traceback (most recent call last):
+  File "/home/dorna/cleaning_fixture/double_wash.py", line 564, in <module>
+    main()
+  File "/home/dorna/cleaning_fixture/double_wash.py", line 554, in main
+    zgok(char[0], char[1], char[2], char[3])
+  File "/home/dorna/cleaning_fixture/double_wash.py", line 481, in zgok
+    wash_single_screen(zero, counter)
+  File "/home/dorna/cleaning_fixture/double_wash.py", line 170, in wash_single_screen
+    Delta_C = [width[0] / segments[0] * .04179, width[1] / segments[1] * .04179]
+TypeError: unsupported operand type(s) for /: 'float' and 'tuple'
+Killed: 1780
+Started subproc.py
+Killed: 1838
+Started subproc.py
+Killed: 1884
+Started subproc.py
+Version: 3.0.0
+Robot Connected
+1
+Alarms cleared
+Traceback (most recent call last):
+  File "/home/dorna/cleaning_fixture/double_wash.py", line 564, in <module>
+    main()
+  File "/home/dorna/cleaning_fixture/double_wash.py", line 554, in main
+Killed: 2025
+Started subproc.py
+Killed: 2112
+Started subproc.py
+Killed: 2196
+Started subproc.py
+Version: 3.0.0
+Robot Connected
+1
+Alarms cleared
+Traceback (most recent call last):
+  File "/home/dorna/cleaning_fixture/double_wash.py", line 564, in <module>
+    main()
+  File "/home/dorna/cleaning_fixture/double_wash.py", line 554, in main
+    zgok(char[0], char[1], char[2], char[3])
+  File "/home/dorna/cleaning_fixture/double_wash.py", line 481, in zgok
+    wash_single_screen(zero, counter)
+  File "/home/dorna/cleaning_fixture/double_wash.py", line 170, in wash_single_screen
+    Delta_C = [width[0] / segments[0] * .04179, width[1] / segments[1] * .04179]
+TypeError: unsupported operand type(s) for /: 'float' and 'tuple'
+Started subproc.py
+Started subproc.py
+Killed: 731
+Started subproc.py
+Killed: 2524
+Started subproc.py
+Killed: 2572
+Started subproc.py
+Killed: 3497
+Started subproc.py
+Started subproc.py
+Version: 3.0.0
+Robot Connected
+1
+Alarms cleared
+Traceback (most recent call last):
+  File "/home/dorna/cleaning_fixture/double_wash.py", line 561, in <module>
+    main()
+  File "/home/dorna/cleaning_fixture/double_wash.py", line 551, in main
+    zgok(char[0], char[1], char[2], char[3])
+  File "/home/dorna/cleaning_fixture/double_wash.py", line 430, in zgok
+    wash_single_perimeter(zero, counter)
+  File "/home/dorna/cleaning_fixture/double_wash.py", line 244, in wash_single_perimeter
+    using_pos = (dict_pos["left_pos"], dict_pos["right_pos"])
+KeyError: 'left_pos'
+Terminated
+Started subproc.py
+Version: 3.0.0
+Robot Connected
+1
+Alarms cleared
+4
+Traceback (most recent call last):
+  File "/home/dorna/cleaning_fixture/double_wash.py", line 565, in <module>
+    main()
+  File "/home/dorna/cleaning_fixture/double_wash.py", line 555, in main
+    zgok(char[0], char[1], char[2], char[3])
+  File "/home/dorna/cleaning_fixture/double_wash.py", line 434, in zgok
+    wash_single_perimeter(zero, counter)
+  File "/home/dorna/cleaning_fixture/double_wash.py", line 370, in wash_single_perimeter
+    y=(-ceil(depth/depthY) - 1) * depthY[0], 
+NameError: name 'ceil' is not defined
+Killed: 735
+Started subproc.py
+Version: 3.0.0
+Robot Connected
+1
+Alarms cleared
+4
+Traceback (most recent call last):
+  File "/home/dorna/cleaning_fixture/double_wash.py", line 565, in <module>
+    main()
+  File "/home/dorna/cleaning_fixture/double_wash.py", line 555, in main
+    zgok(char[0], char[1], char[2], char[3])
+  File "/home/dorna/cleaning_fixture/double_wash.py", line 434, in zgok
+    wash_single_perimeter(zero, counter)
+  File "/home/dorna/cleaning_fixture/double_wash.py", line 370, in wash_single_perimeter
+    y=(-ceil(depth/depthY) - 1) * depthY[0], 
+NameError: name 'ceil' is not defined
+Killed: 2191
+Started subproc.py
+Version: 3.0.0
+Robot Connected
+1
+Alarms cleared
+4
+Traceback (most recent call last):
+  File "/home/dorna/cleaning_fixture/double_wash.py", line 565, in <module>
+    main()
+  File "/home/dorna/cleaning_fixture/double_wash.py", line 555, in main
+    zgok(char[0], char[1], char[2], char[3])
+  File "/home/dorna/cleaning_fixture/double_wash.py", line 434, in zgok
+    wash_single_perimeter(zero, counter)
+  File "/home/dorna/cleaning_fixture/double_wash.py", line 370, in wash_single_perimeter
+    y=(-ceil(depth/depthY) - 1) * (math.cos(angle)* depthY[0]), 
+NameError: name 'ceil' is not defined
+Killed: 2650
+Started subproc.py
+Version: 3.0.0
+Robot Connected
+1
+Alarms cleared
+4
+Traceback (most recent call last):
+  File "/home/dorna/cleaning_fixture/double_wash.py", line 565, in <module>
+    main()
+  File "/home/dorna/cleaning_fixture/double_wash.py", line 555, in main
+    zgok(char[0], char[1], char[2], char[3])
+  File "/home/dorna/cleaning_fixture/double_wash.py", line 434, in zgok
+    wash_single_perimeter(zero, counter)
+  File "/home/dorna/cleaning_fixture/double_wash.py", line 370, in wash_single_perimeter
+    y=(-math.ceil(depth/depthY) - 1) * (math.cos(angle)* depthY[0]), 
+TypeError: unsupported operand type(s) for /: 'tuple' and 'tuple'
+Killed: 2980
+Started subproc.py
+Started subproc.py
+Killed: 750
+Started subproc.py
+Started subproc.py
+Killed: 793
+Started subproc.py
+Started subproc.py
+I/O Connected
+Run
+Traceback (most recent call last):
+  File "/home/dorna/cleaning_fixture/front_IO.py", line 119, in <module>
+    lid = last_line[last_line.index('*')+1:last_line.index('^')]
+ValueError: substring not found
+Started subproc.py
+Started subproc.py
+Started subproc.py
+Started subproc.py
+Killed: 739
+Started subproc.py
+Started subproc.py
+Started subproc.py
+Killed: 737
+Started subproc.py
+                               Killed: 742
+Started subproc.py
+Killed: 1147
+Started subproc.py
+Started subproc.py
+Killed: 676
+Started subproc.py
+Killed: 1165
+Started subproc.py
+Killed: 1195
+Started subproc.py
+Killed: 1218
+Started subproc.py
+Started subproc.py
+Killed: 742
+Started subproc.py
+Killed: 1136
+Started subproc.py
+Killed: 2095
+Started subproc.py
+Killed: 2148
+Started subproc.py
+Killed: 2209
+Started subproc.py
+Started subproc.py
+Started subproc.py
+Version: 3.0.0
+Robot Connected
+Resuming
+1
+Alarms cleared
+Traceback (most recent call last):
+  File "/home/dorna/cleaning_fixture/double_wash.py", line 583, in <module>
+    main()
+  File "/home/dorna/cleaning_fixture/double_wash.py", line 573, in main
+    zgok()
+  File "/home/dorna/cleaning_fixture/double_wash.py", line 501, in zgok
+    wash_single_screen(zero, counter)
+  File "/home/dorna/cleaning_fixture/double_wash.py", line 203, in wash_single_screen
+    ggeee = hahaha.hahaha()
+NameError: name 'hahaha' is not defined
+Started subproc.py
+Started subproc.py
+Killed: 739
+Started subproc.py
+Started subproc.py
+Version: 3.0.0
+Robot Connected
+Resuming
+1
+Alarms cleared
+Traceback (most recent call last):
+  File "/home/dorna/cleaning_fixture/double_wash.py", line 584, in <module>
+    main()
+  File "/home/dorna/cleaning_fixture/double_wash.py", line 574, in main
+    zgok()
+  File "/home/dorna/cleaning_fixture/double_wash.py", line 502, in zgok
+    wash_single_screen(zero, counter)
+  File "/home/dorna/cleaning_fixture/double_wash.py", line 203, in wash_single_screen
+    yahaahhahahaa = celsius()
+NameError: name 'celsius' is not defined
+Killed: 735
+Started subproc.py
+Started subproc.py
+Killed: 783
+Started subproc.py
+Killed: 2068
+Started subproc.py
+Killed: 2127
+Started subproc.py
+Started subproc.py
+Killed: 750
+Started subproc.py
+Killed: 2005
+Started subproc.py
+Started subproc.py
+Killed: 732
+Started subproc.py
+Started subproc.py
+Killed: 746
+Started subproc.py
+Killed: 2104
+Started subproc.py
+Killed: 2185
+Started subproc.py
+Started subproc.py
+Killed: 748
+Started subproc.py
+Killed: 5012
+Started subproc.py
+Killed: 8731
+Started subproc.py
+Killed: 735
+Started subproc.py
+Killed: 2760
+Started subproc.py
+Killed: 4994
+Started subproc.py
+Killed: 766
+Started subproc.py
+Started subproc.py
+Killed: 743
+Started subproc.py
+Started subproc.py
+Started subproc.py
+Killed: 743
+Started subproc.py
+Started subproc.py
+Started subproc.py
+Killed: 743
+Started subproc.py
+Killed: 1469
+Started subproc.py
+Killed: 724
+Killed: 1200
+Started subproc.py
+Started subproc.py
+Killed: 730
+Started subproc.py
+Killed: 735
+Started subproc.py
+Killed: 1177
+Started subproc.py
+Killed: 1225
+Started subproc.py
+Killed: 1261
+Started subproc.py
+Version: 3.0.0
+Robot Connected
+zgok running
+Resuming
+1
+Alarms cleared
+Robot moving to ready position
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 258 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 258 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 259 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 259 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 260 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 260 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 261 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 261 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 262 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 262 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 263 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 263 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 264 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 264 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 265 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 265 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 266 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 266 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 267 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 267 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 268 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 268 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 269 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 269 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 270 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 270 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 271 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 271 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 272 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 272 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 273 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 273 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 274 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 274 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 275 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 275 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 276 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 276 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 277 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 277 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 278 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 278 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 279 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 279 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 280 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 280 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 281 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 281 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 282 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 282 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 283 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 283 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 284 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 284 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 285 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 285 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 286 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 286 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 287 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 287 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 288 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 288 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 289 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 289 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 290 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 290 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 291 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 291 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 292 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 292 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 293 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 293 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 294 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 294 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 295 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 295 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 296 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 296 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 297 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 297 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 298 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 298 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 299 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 299 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 300 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 300 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 301 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 301 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 302 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 302 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 303 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 303 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 304 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 304 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 305 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 305 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 306 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 306 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 307 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 307 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 308 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 308 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 309 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 309 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 310 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 310 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 311 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 311 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 312 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 312 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 313 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 313 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 314 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 314 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 315 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 315 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 316 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 316 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 317 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 317 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 318 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 318 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 319 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 319 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 320 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 320 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 321 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 321 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 322 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 322 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 323 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 323 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 324 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 324 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 325 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 325 times
+
+washing screen
+Moving to ready positionKilled: 1292
+Started subproc.py
+Killed: 10225
+Started subproc.py
+Killed: 736
+Started subproc.py
+Version: 3.0.0
+Robot Connected
+zgok running
+Resuming
+1
+Alarms cleared
+Robot moving to ready position
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 352 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 352 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 353 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 353 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 354 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 354 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 355 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 355 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 356 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 356 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 357 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 357 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 358 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 358 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 359 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 359 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 360 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 360 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 361 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 361 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 362 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 362 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 363 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 363 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 364 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 364 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 365 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 365 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 366 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 366 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 367 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 367 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 368 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 368 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 369 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 369 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 370 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 370 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 371 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 371 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 372 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 372 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 373 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 373 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 374 timesKilled: 744
+Started subproc.py
+Killed: 1200
+Started subproc.py
+  File "/home/dorna/cleaning_fixture/front_IO.py", line 65
+    print(f"R_IO: {}")
+TabError: inconsistent use of tabs and spaces in indentation
+Started subproc.py
+  File "/home/dorna/cleaning_fixture/front_IO.py", line 65
+    print(f"R_IO: {}")
+TabError: inconsistent use of tabs and spaces in indentation
+Started subproc.py
+  File "/home/dorna/cleaning_fixture/front_IO.py", line 65
+    print(f"R_IO: {}")
+TabError: inconsistent use of tabs and spaces in indentation
+Started subproc.py
+Killed: 735
+Started subproc.py
+Killed: 745
+Started subproc.py
+Killed: 1163
+Started subproc.py
+Killed: 1985
+Started subproc.py
+Killed: 2477
+Started subproc.py
+Version: 3.0.0
+Robot Connected
+zgok running
+Resuming
+1
+Alarms cleared
+wash perimeter is going to run
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 395 times
+
+Robot moving to ready position
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 395 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 395 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 396 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 396 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 397 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 397 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 398 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 398 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 399 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 399 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 400 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 400 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 401 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 401 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 402 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 402 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 403 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 403 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 404 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 404 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 405 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 405 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 406 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 406 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 407 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 407 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 408 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 408 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 409 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 409 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 410 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 410 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 411 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 411 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 412 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 412 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 413 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 413 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 414 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 414 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 415 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 415 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 416 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 416 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 417 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 417 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 418 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 418 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 419 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 419 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 420 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 420 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 421 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 421 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 422 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 422 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 423 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 423 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 424 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 424 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 425 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 425 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 426 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 426 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 427 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 427 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 428 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 428 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 429 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 429 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 430 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 430 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 431 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 431 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 432 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 432 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 433 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 433 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 434 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 434 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 435 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 435 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 436 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 436 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 437 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 437 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 438 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 438 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 439 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screenKilled: 4404
+Started subproc.py
+Killed: 5491
+Started subproc.py
+Killed: 5512
+Started subproc.py
+Version: 3.0.0
+Robot Connected
+zgok running
+Resuming
+1
+Alarms cleared
+Robot moving to ready position
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 459 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 459 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 460 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 460 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 461 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 461 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 462 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 462 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 463 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 463 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 464 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 464 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 465 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 465 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 466 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 466 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 467 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 467 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 468 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 468 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 469 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 469 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 470 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 470 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 471 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 471 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 472 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 472 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 473 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 473 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 474 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 474 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 475 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 475 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 476 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 476 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 477 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 477 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 478 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 478 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 479 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 479 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 480 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 480 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 481 timesStarted subproc.py
+Traceback (most recent call last):
+  File "/home/dorna/cleaning_fixture/front_IO.py", line 26, in <module>
+    Motor_State = bool(robot.get_input(12))
+  File "/usr/local/lib/python3.9/dist-packages/dorna2/dorna.py", line 418, in get_input
+    return self.input(index=index, **kwargs)
+  File "/usr/local/lib/python3.9/dist-packages/dorna2/dorna.py", line 412, in input
+    return self._key_val_cmd(key, val, cmd, rtn_key, rtn_keys, **kwargs)
+  File "/usr/local/lib/python3.9/dist-packages/dorna2/dorna.py", line 279, in _key_val_cmd
+    rtn = self.cmd(cmd, **kwargs)
+  File "/usr/local/lib/python3.9/dist-packages/dorna2/dorna.py", line 255, in cmd
+    return self.play(**kwargs)
+  File "/usr/local/lib/python3.9/dist-packages/dorna2/dorna.py", line 152, in play
+    self.write(json.dumps(msg))
+  File "/usr/local/lib/python3.9/dist-packages/dorna2/ws.py", line 85, in write
+    future = asyncio.run_coroutine_threadsafe(self.write_coro(msg, mode), self.loop)
+  File "/usr/lib/python3.9/asyncio/tasks.py", line 931, in run_coroutine_threadsafe
+    loop.call_soon_threadsafe(callback)
+  File "/usr/lib/python3.9/asyncio/base_events.py", line 791, in call_soon_threadsafe
+    self._check_closed()
+  File "/usr/lib/python3.9/asyncio/base_events.py", line 510, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+sys:1: RuntimeWarning: coroutine 'WS.write_coro' was never awaited
+Started subproc.py
+Killed: 750
+Started subproc.py
+Killed: 792
+Started subproc.py
+Version: 3.0.0
+Robot Connected
+zgok running
+Resuming
+1
+Alarms cleared
+Robot moving to ready position
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 467 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 467 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 468 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 468 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 469 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 469 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 470 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 470 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 471 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 471 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 472 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 472 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 473 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 473 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 474 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 474 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 475 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 475 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 476 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 476 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 477 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 477 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 478 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 478 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 479 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 479 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 480 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 480 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 481 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 481 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 482 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 482 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 483 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 483 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 484 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 484 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 485 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 485 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 486 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 486 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 487 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 487 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 488 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 488 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 489 timesKilled: 1204
+Started subproc.py
+Version: 3.0.0
+Robot Connected
+zgok running
+Using Defaults
+1
+Alarms cleared
+wash perimeter is going to run
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 1 times
+
+Robot moving to ready position
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 1 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 1 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 2 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 2 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 3 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 3 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 4 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 4 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 5 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 5 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 6 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 6 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 7 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 7 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 8 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 8 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 9 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 9 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 10 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 10 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 11 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 11 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 12 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 12 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 13 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 13 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 14 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 14 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 15 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 15 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 16 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 16 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 17 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 17 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 18 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 18 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 19 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 19 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 20 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 20 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 21 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 21 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 22 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 22 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 23 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 23 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 24 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 24 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 25 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 25 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 26 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 26 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 27 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 27 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 28 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 28 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 29 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 29 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 30 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 30 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 31 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 31 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 32 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 32 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 33 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 33 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 34 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 34 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 35 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 35 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 36 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 36 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 37 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 37 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 38 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 38 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 39 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 39 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 40 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 40 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 41 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 41 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 42 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 42 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 43 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 43 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 44 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 44 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 45 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 45 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 46 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 46 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 47 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 47 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 48 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 48 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 49 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 49 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 50 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 50 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 51 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 51 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 52 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 52 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 53 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 53 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 54 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 54 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 55 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 55 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 56 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 56 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 57 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 57 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 58 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 58 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 59 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 59 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 60 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 60 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 61 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 61 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 62 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 62 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 63 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 63 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 64 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 64 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 65 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 65 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 66 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 66 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 67 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 67 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 68 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 68 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 69 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 69 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 70 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 70 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 71 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 71 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 72 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 72 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 73 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 73 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 74 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 74 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 75 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 75 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 76 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 76 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 77 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 77 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 78 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 78 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 79 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 79 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 80 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 80 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 81 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 81 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 82 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 82 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 83 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 83 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 84 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 84 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 85 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 85 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 86 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 86 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 87 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 87 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 88 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 88 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 89 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 89 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 90 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 90 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 91 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 91 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 92 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 92 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 93 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 93 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 94 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 94 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 95 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 95 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 96 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 96 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 97 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 97 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 98 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 98 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 99 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 99 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 100 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 100 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 101 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 101 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 102 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 102 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 103 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 103 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 104 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 104 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 105 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 105 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 106 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 106 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 107 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 107 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 108 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 108 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 109 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 109 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 110 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 110 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 111 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 111 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 112 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 112 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 113 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 0 113 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen corner
+changing depth
+Moving away from screen
+Cleaned screen 1 114 times
+
+washing screen
+Moving to ready position
+Moving to screen
+Washing
+Moving to screen
+Moving away from screen cornerKilled: 1396
+Started subproc.py
+Killed: 1573
+Started subproc.py
+Killed: 3532
+Started subproc.py
+Started subproc.py
+Started subproc.py
+Version: 3.0.0
+Robot Connected
+Resuming
+Traceback (most recent call last):
+  File "/home/dorna/cleaning_fixture/double_wash.py", line 630, in <module>
+    main()
+  File "/home/dorna/cleaning_fixture/double_wash.py", line 619, in main
+    zgok()
+  File "/home/dorna/cleaning_fixture/double_wash.py", line 447, in zgok
+    counter = Big_Zam["counter"]
+TypeError: list indices must be integers or slices, not str
+                                                                                                                                                                                                                                                                                                                   Version: 3.0.0
+Robot Connected
+Resuming
+Traceback (most recent call last):
+  File "/home/dorna/cleaning_fixture/double_wash.py", line 630, in <module>
+    main()
+  File "/home/dorna/cleaning_fixture/double_wash.py", line 619, in main
+    zgok()
+  File "/home/dorna/cleaning_fixture/double_wash.py", line 447, in zgok
+    counter = Big_Zam["counter"]
+TypeError: list indices must be integers or slices, not str
+I/O Connected
+pump state false
+M_IO: True
+Motors On
+R_IO: True
+Run
+R_IO: False
+M_IO: False
+Traceback (most recent call last):
+  File "/home/dorna/cleaning_fixture/front_IO.py", line 128, in <module>
+    lid = last_line[last_line.index('*')+1:last_line.index('^')]
+ValueError: substring not found
+Started subproc.py
+Killed: 735
+Started subproc.py
+Killed: 1213
+Started subproc.py
+Killed: 1234
+Started subproc.py
+Killed: 1270
+Started subproc.py
+  File "/home/dorna/cleaning_fixture/front_IO.py", line 219
+    print("pump state true")
+TabError: inconsistent use of tabs and spaces in indentation
+Started subproc.py
+Killed: 732
+Started subproc.py
+                                                              Killed: 736
+Started subproc.py
+Killed: 1112
+Started subproc.py
+Killed: 1170
+Started subproc.py
+Killed: 5229
+Started subproc.py
+Killed: 10110
+Started subproc.py
+Killed: 10973
+Started subproc.py
+Killed: 15626
+Started subproc.py
+Killed: 743
+Started subproc.py
+Killed: 989
+Started subproc.py
+Killed: 1007
+Started subproc.py
+Killed: 744
+Started subproc.py
+Killed: 1274
+Started subproc.py
+                                I/O Connected
+E-STOP!
+Run
+R_IO: False
+E_IO: True
+M_IO: False
+S_IO: False
+E-STOP Released
+Traceback (most recent call last):
+  File "/home/dorna/cleaning_fixture/front_IO.py", line 128, in <module>
+    lid = last_line[last_line.index('*')+1:last_line.index('^')]
+ValueError: substring not found
+Started subproc.py
+Killed: 738
+Started subproc.py
+Started subproc.py
+Killed: 740
+Started subproc.py
+Killed: 1653
+Started subproc.py
+Started subproc.py
+Started subproc.py
+Killed: 739
+Started subproc.py
+Killed: 739
+Started subproc.py
+Killed: 6610
+Started subproc.py
+Killed: 6630
+Started subproc.py
+I/O Connected
+M_IO: True
+Motors On
+R_IO: True
+Run
+End Stop Triggered
+E_IO: False
+M_IO: False
+S_IO: True
+E-STOP!
+E-STOP Released
+R_IO: False
+Traceback (most recent call last):
+  File "/home/dorna/cleaning_fixture/front_IO.py", line 128, in <module>
+    lid = last_line[last_line.index('*')+1:last_line.index('^')]
+ValueError: substring not found
+Started subproc.py
+                               Killed: 772
+Started subproc.py
+Killed: 1161
+Started subproc.py
+Killed: 734
+Started subproc.py
+Killed: 734
+Started subproc.py
+Killed: 1161
+Started subproc.py
+Killed: 1180
+Started subproc.py
+Killed: 1767
+Started subproc.py
+Killed: 1889
+Started subproc.py
+Killed: 1944
+Started subproc.py
+Killed: 741
+Started subproc.py
+Started subproc.py
+Version: 3.0.0
+Robot Connected
+Resuming
+1
+Alarms cleared
+Cleaned screen 0 164 times
+
+Turning pump on
+Turning pump off
+Cleaned screen 1 164 times
+
+dwell time is shorter than operation time, no need to wait
+Robot is waiting: (2,)
+Turning pump on
+Turning pump off
+Cleaned screen 0 164 times
+
+dwell time is shorter than operation time, no need to wait
+Robot is waiting: (2,)
+Turning pump on
+Turning pump off
+Cleaned screen 1 165 times
+
+dwell time is shorter than operation time, no need to wait
+Robot is waiting: (2,)
+Turning pump on
+Turning pump off
+Cleaned screen 0 165 times
+
+dwell time is shorter than operation time, no need to wait
+Robot is waiting: (2,)
+Turning pump on
+Turning pump off
+Cleaned screen 1 166 times
+
+dwell time is shorter than operation time, no need to wait
+Robot is waiting: (2,)
+Turning pump on
+Turning pump off
+Cleaned screen 0 166 times
+
+dwell time is shorter than operation time, no need to wait
+Robot is waiting: (2,)
+Turning pump on
+Turning pump off
+Cleaned screen 1 167 times
+
+dwell time is shorter than operation time, no need to wait
+Robot is waiting: (2,)
+Turning pump on
+Turning pump off
+Cleaned screen 0 167 times
+
+dwell time is shorter than operation time, no need to wait
+Robot is waiting: (2,)
+Turning pump on
+Turning pump off
+Cleaned screen 1 168 times
+
+dwell time is shorter than operation time, no need to wait
+Robot is waiting: (2,)
+Turning pump on
+Turning pump off
+Cleaned screen 0 168 times
+
+dwell time is shorter than operation time, no need to wait
+Robot is waiting: (2,)
+Turning pump on
+Turning pump off
+Cleaned screen 1 169 times
+
+dwell time is shorter than operation time, no need to wait
+Robot is waiting: (2,)
+Turning pump on
+Turning pump off
+Cleaned screen 0 169 times
+
+dwell time is shorter than operation time, no need to wait
+Robot is waiting: (2,)
+Turning pump on
+Turning pump off
+Cleaned screen 1 170 times
+
+dwell time is shorter than operation time, no need to wait
+Robot is waiting: (2,)
+Turning pump on
+Turning pump off
+Cleaned screen 0 170 times
+
+dwell time is shorter than operation time, no need to wait
+Robot is waiting: (2,)
+Turning pump on
+Turning pump off
+Cleaned screen 1 171 times
+
+dwell time is shorter than operation time, no need to wait
+Robot is waiting: (2,)
+Turning pump on
+Turning pump off
+Cleaned screen 0 171 times
+
+dwell time is shorter than operation time, no need to wait
+Robot is waiting: (2,)
+Turning pump on
+Turning pump off
+Cleaned screen 1 172 times
+
+dwell time is shorter than operation time, no need to wait
+Robot is waiting: (2,)
+Turning pump on
+Turning pump off
+Cleaned screen 0 172 times
+
+dwell time is shorter than operation time, no need to wait
+Robot is waiting: (2,)
+Turning pump on
+Turning pump off
+Cleaned screen 1 173 times
+
+dwell time is shorter than operation time, no need to wait
+Robot is waiting: (2,)
+Turning pump on
+Turning pump off
+Cleaned screen 0 173 times
+
+dwell time is shorter than operation time, no need to wait
+Robot is waiting: (2,)
+Turning pump on
+Turning pump off
+Cleaned screen 1 174 times
+
+dwell time is shorter than operation time, no need to wait
+Robot is waiting: (2,)
+Turning pump on
+Turning pump off
+Cleaned screen 0 174 times
+
+dwell time is shorter than operation time, no need to wait
+Robot is waiting: (2,)
+Turning pump on
+Turning pump off
+Cleaned screen 1 175 times
+
+dwell time is shorter than operation time, no need to wait
+Robot is waiting: (2,)
+Turning pump on
+Turning pump off
+Cleaned screen 0 175 times
+
+dwell time is shorter than operation time, no need to wait
+Robot is waiting: (2,)
+Turning pump on
+Turning pump off
+Cleaned screen 1 176 times
+
+dwell time is shorter than operation time, no need to wait
+Robot is waiting: (2,)
+Turning pump on
+Turning pump off
+Cleaned screen 0 176 times
+
+dwell time is shorter than operation time, no need to wait
+Robot is waiting: (2,)
+Turning pump on
+Turning pump off
+Cleaned screen 1 177 times
+
+dwell time is shorter than operation time, no need to wait
+Robot is waiting: (2,)
+Turning pump on
+Turning pump off
+Cleaned screen 0 177 times
+
+dwell time is shorter than operation time, no need to wait
+Robot is waiting: (2,)
+Turning pump on
+Turning pump off
+Cleaned screen 1 178 times
+
+dwell time is shorter than operation time, no need to wait
+Robot is waiting: (2,)
+Turning pump on
+Turning pump off
+Cleaned screen 0 178 times
+
+dwell time is shorter than operation time, no need to wait
+Robot is waiting: (2,)
+Turning pump on
+Turning pump off
+Cleaned screen 1 179 times
+
+dwell time is shorter than operation time, no need to wait
+Robot is waiting: (2,)
+Turning pump on
+Turning pump off
+Cleaned screen 0 179 times
+
+dwell time is shorter than operation time, no need to wait
+Robot is waiting: (2,)
+Turning pump on
+Turning pump off
+Cleaned screen 1 180 times
+
+dwell time is shorter than operation time, no need to wait
+Robot is waiting: (2,)
+Turning pump on
+Turning pump off
+Cleaned screen 0 180 times
+
+dwell time is shorter than operation time, no need to wait
+Robot is waiting: (2,)
+Turning pump on
+Turning pump off
+Cleaned screen 1 181 times
+
+dwell time is shorter than operation time, no need to wait
+Robot is waiting: (2,)
+Turning pump on
+Turning pump off
+Cleaned screen 0 181 times
+
+dwell time is shorter than operation time, no need to wait
+Robot is waiting: (2,)
+Turning pump on
+Turning pump off
+Cleaned screen 1 182 times
+
+dwell time is shorter than operation time, no need to wait
+Robot is waiting: (2,)
+Turning pump on
+Turning pump off
+Cleaned screen 0 182 times
+
+dwell time is shorter than operation time, no need to wait
+Robot is waiting: (2,)
+Turning pump on
+Turning pump off
+Cleaned screen 1 183 times
+
+dwell time is shorter than operation time, no need to wait
+Robot is waiting: (2,)
+Turning pump on
+Turning pump off
+Cleaned screen 0 183 times
+
+dwell time is shorter than operation time, no need to wait
+Robot is waiting: (2,)
+Turning pump on
+Turning pump off
+Cleaned screen 1 184 times
+
+dwell time is shorter than operation time, no need to wait
+Robot is waiting: (2,)
+Turning pump on
+Turning pump off
+Cleaned screen 0 184 times
+
+dwell time is shorter than operation time, no need to wait
+Robot is waiting: (2,)
+Turning pump on
+Turning pump off
+Cleaned screen 1 185 times
+
+dwell time is shorter than operation time, no need to wait
+Robot is waiting: (2,)
+Turning pump on
+Turning pump off
+Cleaned screen 0 185 times
+
+dwell time is shorter than operation time, no need to wait
+Robot is waiting: (2,)
+Turning pump on
+Turning pump off
+Cleaned screen 1 186 times
+
+dwell time is shorter than operation time, no need to wait
+Robot is waiting: (2,)
+Turning pump on
+Turning pump off
+Cleaned screen 0 186 times
+
+dwell time is shorter than operation time, no need to wait
+Robot is waiting: (2,)
+Turning pump on
+Turning pump off
+Cleaned screen 1 187 times
+
+dwell time is shorter than operation time, no need to wait
+Robot is waiting: (2,)
+Turning pump on
+Turning pump off
+Cleaned screen 0 187 times
+
+dwell time is shorter than operation time, no need to wait
+Robot is waiting: (2,)
+Turning pump on
+Turning pump off
+Cleaned screen 1 188 times
+
+dwell time is shorter than operation time, no need to wait
+Robot is waiting: (2,)
+Turning pump on
+Turning pump off
+Cleaned screen 0 188 times
+
+dwell time is shorter than operation time, no need to wait
+Robot is waiting: (2,)
+Turning pump on
+Turning pump off
+Cleaned screen 1 189 times
+
+dwell time is shorter than operation time, no need to wait
+Robot is waiting: (2,)
+Turning pump on
+Turning pump off
+Cleaned screen 0 189 times
+
+dwell time is shorter than operation time, no need to wait
+Robot is waiting: (2,)
+Turning pump on
+Turning pump off
+Cleaned screen 1 190 times
+
+dwell time is shorter than operation time, no need to wait
+Robot is waiting: (2,)
+Turning pump on
+Turning pump off
+Cleaned screen 0 190 times
+
+dwell time is shorter than operation time, no need to wait
+Robot is waiting: (2,)
+Turning pump on
+Turning pump off
+Cleaned screen 1 191 times
+
+dwell time is shorter than operation time, no need to wait
+Robot is waiting: (2,)
+Turning pump on
+Turning pump off
+Cleaned screen 0 191 times
+
+dwell time is shorter than operation time, no need to wait
+Robot is waiting: (2,)
+Turning pump on
+Turning pump off
+Cleaned screen 1 192 times
+
+dwell time is shorter than operation time, no need to waitKilled: 738
+Started subproc.py

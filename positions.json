@@ -1,0 +1,33 @@
+{
+    "comment0": ["Total number of times to run"],
+    "cleaning_cycles": [5],
+
+    "dwell_time": [2],
+    "comment1": ["Dimensions of the Screens left, then right"],
+    "width": [257.3, 257.3],
+    "height": [170.1, 170.1],
+    "comment1.5": ["Thickness, then width"],
+    "Perimeter displacement": [50, 20],
+    "depth": [8.5, 8.5],
+
+    "comment2": ["These are the dimensions of the cleaning tool"],
+    "radius": [50.8],
+    "tool_length": [12.5],
+
+    "comment3": ["This controls how fine/course the wiping is"],
+    "left_seg": [6],
+    "right_seg": [7],
+
+    "comment4": ["Left device coordinates"],
+    "left_pos_device": [90.135, 62.554, -109.393, 35.550, 0.0, 50.0],
+    "left_pos_screen": [90.135, 62.554, -109.393, 35.550, 0.0, 50.0],
+
+    "comment5": ["Right device coordinates"],
+    "right_pos_device": [90.135, 62.554, -109.393, 35.550, 0.0, 16.0],
+    "right_pos_screen": [90.135, 62.554, -109.393, 35.550, 0.0, 16.0],
+
+    "comment6": ["Below this line should not be edited under normal use"],
+    "comment7": ["This is the safe and the powered down position of the robot"],
+    "ready_cart": [-0.786, 300.067, 268.442, -21.994, 0.0, 29.43, 0.0, 0.0],
+    "fold": [184.9275, 180.207, -142.0045, 134.96625, -0.16875, 14.38, 0.0, 0.0] 
+}
